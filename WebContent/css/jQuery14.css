@@ -1,0 +1,16 @@
+ul{
+	list-style: none;
+}
+
+.main_menu > li{
+	width: 300px;
+	background: yellowgreen;
+}
+
+.sub_menu1 {
+	cursor: pointer;
+}
+
+.sub_menu2 {
+	display: none;
+}

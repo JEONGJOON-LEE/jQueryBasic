@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 1000px;
+	margin: 50px auto;
+}
+
+fieldset{
+	width: 250px;
+	height: 55px;
+	padding: 5px 10px;
+}
+
+table {
+	width: 400px;
+	border: 1px solid black;
+}
+
+td{
+	padding: 5px 0px;
+}
+
+input{
+	padding: 0px 10px;
+	border-radius: 5px;
+	height: 25px;
+}
+
+table tr:nth-child(odd) {
+	background: hotpink;
+}
+
+table tr:nth-child(even) {
+	background: skyblue;
+}
+
+
+
